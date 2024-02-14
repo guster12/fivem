@@ -17,4 +17,4 @@ services:
       # Allow txAdmin's webserver port to be accessible
       # - "40120:40120"
     environment:
-      LICENSE_KEY: "license-key-here"
+      LICENSE_KEY:  server.cfg file
